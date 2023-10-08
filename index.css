@@ -1,6 +1,17 @@
 h3 {
     text-align: center;
 }
-h4 {
+h5 {
     text-align: center;
+}
+.navbar-toggler-icon {
+    align-items: flex-end;
+}
+.btn {
+    border: solid;
+    border-width: 1px;
+    padding: 20px;
+}
+.btn {
+    width: 200px;
 }
