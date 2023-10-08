@@ -10,8 +10,25 @@ h5 {
 .btn {
     border: solid;
     border-width: 1px;
+    border-color: #B0B0B0;
     padding: 20px;
+    width: 100%;
 }
-.btn {
-    width: 200px;
+/* Estilo para el menú desplegable */
+#menuDesplegable {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#menuDesplegable li {
+    padding: 5px;
+}
+
+#menuDesplegable li a {
+    text-decoration: none;
+    color: #333;
+}
+#menu:hover {
+    display: block;
 }
